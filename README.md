@@ -36,24 +36,6 @@ The goal wasn't just to learn DAX syntax—it was to understand the business req
 
 ---
 
-## 📂 Repository Structure
-
-```
-📂 Dataset
-        Sales Dataset.xlsx
-
-📂 PBIX
-        DAX Through One Dataset.pbix
-
-📂 Screenshots
-        Dashboard Images
-
-📂 Business Scenarios
-        Day 1 - Day 15
-```
-
----
-
 # 🚀 Business Scenarios
 
 | Day | Business Problem | DAX Concepts |
@@ -76,12 +58,6 @@ The goal wasn't just to learn DAX syntax—it was to understand the business req
 
 ---
 
-## 📸 Dashboard Preview
-
-> *(Insert a screenshot of your final dashboard here.)*
-
----
-
 ## 💡 Key Takeaways
 
 This project helped me move beyond learning individual DAX functions.
@@ -96,12 +72,6 @@ Some of my biggest learnings include:
 
 ---
 
-## 🙏 Acknowledgement
-
-A sincere thank you to **Codebasics**, **Dhaval Patel**, and **Hemanand Vadivel** for creating a practical learning experience centered around real business scenarios.
-
----
-
 ## 📬 Connect with Me
 
-If you'd like to discuss Power BI, DAX, or data analytics, feel free to connect with me on LinkedIn.
+If you'd like to discuss Power BI, DAX, or data analytics, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/biya-rocky-dataanalyst/
