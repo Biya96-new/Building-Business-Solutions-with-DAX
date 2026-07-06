@@ -71,3 +71,4 @@ I learned that:
 
 Whenever a calculation has to be performed before aggregation, an iterator like function is the right choice.
 
+<img width="296" height="152" alt="image" src="https://github.com/user-attachments/assets/b026b209-c19c-401b-b5b5-b6643ec1ecc5" />
